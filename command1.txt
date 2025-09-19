@@ -1,0 +1,7 @@
+//git commands
+
+1.git init (if there is no git)
+2.git status
+3.git log
+4.git config --globally user.name "Sornalatha-2002"
+5.git add .
