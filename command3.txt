@@ -5,3 +5,5 @@
 3.git branch -a(show list and current branch)
 4.git checkout issue-fixing-1
 5.git add .
+6.git checkout main (change the current branch to main)
+7.git merge issue-fixing-1 (merge the code into main)
